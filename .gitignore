@@ -1,0 +1,13 @@
+# Ignorar el archivo config.json en la raíz
+/config.json
+
+# Ignorar el directorio node_modules en todas las librerías
+/libs/*/node_modules/
+
+# Ignorar todos los archivos .class en el directorio src y sus subdire>
+/src/**/*.class
+
+# Para que no se cree .class
+/src/*.class
+
+
